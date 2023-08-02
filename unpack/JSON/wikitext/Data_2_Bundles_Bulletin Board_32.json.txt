@@ -1,0 +1,1 @@
+{"index": "Bulletin Board/32", "main_category": "Bundles", "nameEN": "Field Research", "reward": "BO 20 1", "ingredient": "422 1 0 392 1 0 702 1 0 536 1 0", "colorIndex": "5", "displayName": "土地研究", "ingredientSlots": "2"}

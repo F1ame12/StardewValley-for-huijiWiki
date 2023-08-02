@@ -1,0 +1,1 @@
+{"index": "515", "main_category": "Boots", "nameEN": "Cowboy Boots", "discription": "乡下人的时尚高度。", "sellPrice": "250", "denfense": "2", "immunity": "6", "displayName": "牛仔之靴", "colorIndex": "11"}

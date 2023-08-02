@@ -1,0 +1,1 @@
+{"index": "Vault/26", "main_category": "Bundles", "nameEN": "25,000g", "reward": "BO 21 1", "ingredient": "-1 25000 25000", "colorIndex": "1", "displayName": "25,000金", "ingredientSlots": "2"}

@@ -1,0 +1,1 @@
+{"index": "Bulletin Board/35", "main_category": "Bundles", "nameEN": "Fodder", "reward": "BO 104 1", "ingredient": "262 10 0 178 10 0 613 3 0", "colorIndex": "3", "displayName": "饲料", "ingredientSlots": "2"}

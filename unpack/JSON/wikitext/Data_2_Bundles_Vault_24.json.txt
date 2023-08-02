@@ -1,0 +1,1 @@
+{"index": "Vault/24", "main_category": "Bundles", "nameEN": "5,000g", "reward": "O 369 30", "ingredient": "-1 5000 5000", "colorIndex": "2", "displayName": "5,000金", "ingredientSlots": "2"}
