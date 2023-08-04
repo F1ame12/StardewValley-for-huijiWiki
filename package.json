@@ -3,9 +3,14 @@
   "version": "1.0.0",
   "description": "data for wiki",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node ./src/download_img.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "mwn": "^1.11.5"
+  }
 }
